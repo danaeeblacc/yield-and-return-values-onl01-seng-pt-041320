@@ -1,8 +1,3 @@
-require 'pry'
-
-
-return from yield statements
-
 def hello(array)
   i = 0
   collection = []
